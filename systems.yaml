@@ -1,7 +1,157 @@
 systems:
-  system_1:
+  ops:
+    main: false
+    standin: true
+  ops_supz:
     main: true
     standin: false
-  system_2:
+  system_3:
+    main: false
+    standin: true
+  system_4:
+    main: true
+    standin: false
+  system_5:
+    main: false
+    standin: true
+  system_6:
+    main: true
+    standin: false
+  system_7:
+    main: false
+    standin: true
+  system_8:
+    main: true
+    standin: false
+  system_9:
+    main: false
+    standin: true
+  system_10:
+    main: true
+    standin: false
+  system_11:
+    main: false
+    standin: true
+  system_12:
+    main: true
+    standin: false
+  system_13:
+    main: false
+    standin: true
+  system_14:
+    main: true
+    standin: false
+  system_15:
+    main: false
+    standin: true
+  system_16:
+    main: true
+    standin: false
+  system_17:
+    main: false
+    standin: true
+  system_18:
+    main: true
+    standin: false
+  system_19:
+    main: false
+    standin: true
+  system_20:
+    main: true
+    standin: false
+  system_21:
+    main: false
+    standin: true
+  system_22:
+    main: true
+    standin: false
+  system_23:
+    main: false
+    standin: true
+  system_24:
+    main: true
+    standin: false
+  system_25:
+    main: false
+    standin: true
+  system_26:
+    main: true
+    standin: false
+  system_27:
+    main: false
+    standin: true
+  system_28:
+    main: true
+    standin: false
+  system_29:
+    main: false
+    standin: true
+  system_30:
+    main: true
+    standin: false
+  system_31:
+    main: false
+    standin: true
+  system_32:
+    main: true
+    standin: false
+  system_33:
+    main: false
+    standin: true
+  system_34:
+    main: true
+    standin: false
+  system_35:
+    main: false
+    standin: true
+  system_36:
+    main: true
+    standin: false
+  system_37:
+    main: false
+    standin: true
+  system_38:
+    main: true
+    standin: false
+  system_39:
+    main: false
+    standin: true
+  system_40:
+    main: true
+    standin: false
+  system_41:
+    main: false
+    standin: true
+  system_42:
+    main: true
+    standin: false
+  system_43:
+    main: false
+    standin: true
+  system_44:
+    main: true
+    standin: false
+  system_45:
+    main: false
+    standin: true
+  system_46:
+    main: true
+    standin: false
+  system_47:
+    main: false
+    standin: true
+  system_48:
+    main: true
+    standin: false
+  system_49:
+    main: false
+    standin: true
+  system_50:
+    main: true
+    standin: false
+  system_51:
+    main: false
+    standin: true
+  system_52:
     main: true
     standin: false
