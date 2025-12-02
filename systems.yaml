@@ -1,0 +1,7 @@
+systems:
+  system_1:
+    main: true
+    standin: false
+  system_2:
+    main: true
+    standin: false
