@@ -1,8 +1,8 @@
 systems:
-  ops:
+  system_1:
     main: false
     standin: true
-  ops_supz:
+  system_2:
     main: true
     standin: false
   system_3:
